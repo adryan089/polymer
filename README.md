@@ -35,26 +35,24 @@ Open File .env (Nanti Kita isi Data Dari Alchemy and Blockscout)
 
 👉 Edit Isian .env di Bawah :
 
-PRIVATE_KEY_1='ISI-PRIVATE-KEY-WALLET-KALIAN'
-
-OP_ALCHEMY_API_KEY='API DARI ALCHEMY'
-BASE_ALCHEMY_API_KEY='API DARI ALCHEMY'
-OP_BLOCKSCOUT_API_KEY='API DARI BLOCKSCOUT'
-BASE_BLOCKSCOUT_API_KEY='API DARI BLOCKSCOUT'
+- `PRIVATE_KEY_1='ISI-PRIVATE-KEY-WALLET-KALIAN'`
+- `OP_ALCHEMY_API_KEY='API DARI ALCHEMY'`
+- `BASE_ALCHEMY_API_KEY='API DARI ALCHEMY'`
+- `OP_BLOCKSCOUT_API_KEY='API DARI BLOCKSCOUT'`
+- `BASE_BLOCKSCOUT_API_KEY='API DARI BLOCKSCOUT'`
 
 ➡️ Blockscout
 
-- Open Link : Op Sepolia
+- Open Link : [OP Sepolia](https://optimism-sepolia.blockscout.com/account/api-key)
 - Add API KEY (Name Bebas) Copy API Taro di .env
-- Open Link : Base Sepolia
+- Open Link : [Base Sepolia](https://base-sepolia.blockscout.com/account/api-key)
 - Add API KEY (Name Bebas) Copy API Taro di .env
 
 ➡️ Alchemy
 
-- Opeen Link : https://dashboard.alchemy.com/apps
+- Opeen Link : (https://dashboard.alchemy.com/apps)
 - Create 2 New App (OP and Base)
 Salin Kedua API nya Taro di .env
 - Claim Faucet OP sama BASE Dulu..
 - Done, Back Terminal Paste
 
-just do-it
